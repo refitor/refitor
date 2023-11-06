@@ -6,7 +6,7 @@
 
 ###
 
-![/docs/selfweb3.png](https://github.com/refitor/selfweb3/tree/main/docs/selfweb3-bg.png)
+![/docs/selfweb3.png](https://github.com/refitor/selfweb3/blog/main/docs/selfweb3-bg.png)
 
 ## Deployed contract
 
@@ -24,7 +24,7 @@
 
 ### Principle: After dynamic authorization is completed off-chain, it is guaranteed by multi-party signatures invisible to each other to prove the legitimacy of the user's identity on the chain. All parties restrict each other to ensure decentralized operation while providing highly secure privacy protection.
 
-![/docs/selfweb3-arch.png](https://github.com/refitor/selfweb3/tree/main/docs/selfweb3-arch.png)
+![/docs/selfweb3-arch.png](https://github.com/refitor/selfweb3/blog/main/docs/selfweb3-arch.png)
 
 ## Self-Host
 
