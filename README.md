@@ -10,9 +10,9 @@
 
 ## Deployed contract
 
-1. **Arbitrum Goerli, 421613: 0xec04F8Ee0493f3d763AB1624BB6aAcaCD94Ac4C1**
+1. **Goerli: 5: 0x733755781396f53Be6cEd253f4C25C5ecE82Cd26**
 
-2. **opBNB Testnet, 5611: 0x7B6E05a55B1756f827F205BF454BF75288904ecF**
+2. **Arbitrum Goerli, 421613: 0xec04F8Ee0493f3d763AB1624BB6aAcaCD94Ac4C1**
 
 ## Security model
 
